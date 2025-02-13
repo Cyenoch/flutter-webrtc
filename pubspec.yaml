@@ -4,7 +4,7 @@ version: 0.12.8
 homepage: https://github.com/cloudwebrtc/flutter-webrtc
 environment:
   sdk: '>=3.3.0 <4.0.0'
-  flutter: '>=1.22.0'
+  flutter: '>=3.28.0'
 
 dependencies:
   collection: ^1.17.0
